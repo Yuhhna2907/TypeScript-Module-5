@@ -1,0 +1,8 @@
+# Default ignored files
+/../../typescript-is-prime /.idea/shelf/
+/../../typescript-is-prime /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../typescript-is-prime /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../typescript-is-prime /.idea/dataSources/
+/../../typescript-is-prime /.idea/dataSources.local.xml
